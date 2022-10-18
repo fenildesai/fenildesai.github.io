@@ -7,6 +7,8 @@ Notes from the book - Clean Code - A Handbook of Agile Software Craftsmanship - 
 
 [Introduction](#introduction)
 
+1. [Clean Code](#clean-code)
+
 # <a name="foreword">Foreword</a>
 - Honesty in small things is not a small thing. God is in the details.
 
@@ -42,5 +44,19 @@ Notes from the book - Clean Code - A Handbook of Agile Software Craftsmanship - 
 
 # <a name="introduction">Introduction</a>
 - The only valid measurement of code quality is: WTFs/Minute
+
+![image info](/img/wtfsperminute.png)
+
+- Which door represents your code? 
+- Which door represents your team/company?
+- Why are we in that room?
+- How can we make sure we windup behidn the right door when the going gets tough?
+- The Answer is **Craftsmanship** which is equal to **Knowledge + Work**
+
+- You must gain knowledge of principles, practices, patterns & apply that knowledge by working hard & practcising.
+
+- Learning to write clean code is *hard work*. It requires more than just the knowledge of principles and patterns. You must *sweat* over it. You must practice it yourself, and watch yourself fail. You must watch others practice it and fail.
+
+# <a name="clean-code">1. Clean Code</a>
 
 
