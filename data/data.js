@@ -10,7 +10,7 @@ let profile = {
   name: "Fenil Desai",
   description: "Web Developer",
   bio:
-    "I'm a Web Developer interested in Web technologies. Aspiring to become a FullStack developer <br><br>High level of web languages (ASP.NET, C#, SQL Server, Azure DevOps, Jquery, JS, HTML and CSS). I work with ASP.NET, Visual Studio 2019, .NET Core, Azure DevOps (now).",
+    "I'm a Web Developer interested in Web technologies. Aspiring to become a FullStack developer <br><br>High level of web languages (ASP.NET, C#, SQL Server, Azure DevOps, Jquery, JS, HTML and CSS). I work with ASP.NET, Visual Studio 2022, .NET Core, Azure DevOps (now).",
   email: "feniludesai@yahoo.com",
   location: "Pune, India",
   birth: "1984-10-30", // YYYY-MM-DD format
@@ -22,6 +22,7 @@ let profile = {
     "React",
     "WebRTC",,
     "AWS",
+    "Azure",
     "HTML",
     "Javascript",
     "SQL",
